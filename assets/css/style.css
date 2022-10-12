@@ -1,0 +1,26 @@
+
+#logo{ text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+}
+#logo h1{text-align: center;
+
+}
+#logo img{
+    border-radius: 40px;
+}
+#logo img:hover {
+    transition: 0.70s;
+    transform: rotate(360deg);}
+
+#header{
+   
+padding-right: 200px;}
+ #header h1{
+    font-size:x-large;
+    
+ }
+   
+
